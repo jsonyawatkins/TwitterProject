@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ea1117f-612a-4ba6-a408-bcc611ed3ada" name="Default Changelist" comment="" />
+    <list default="true" id="4ea1117f-612a-4ba6-a408-bcc611ed3ada" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/controller/FollowController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/model/Tag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/repository/TagRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/fragments/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/taggedTweets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/controller/TweetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/controller/TweetController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/model/Tweet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/model/Tweet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/repository/TweetRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/repository/TweetRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/service/TweetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/service/TweetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/static/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/static/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/feed.html" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/feed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/newTweet.html" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/newTweet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/registration.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +36,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1tMqQqYxiH8Tj8CytU8bRIYcNyw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,9 +52,10 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -43,6 +67,17 @@
       <updated>1622589293529</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
