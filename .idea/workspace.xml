@@ -2,24 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ea1117f-612a-4ba6-a408-bcc611ed3ada" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/controller/FollowController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/model/Tag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/repository/TagRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/fragments/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/taggedTweets.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/user.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/model/TweetDisplay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capture.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Capture.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/controller/TweetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/controller/TweetController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/model/Tweet.java" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/model/Tweet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/repository/TweetRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/repository/TweetRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/service/TweetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/java/com/tts/TechTalentTwitter/service/TweetService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/static/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/static/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/static/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/static/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/feed.html" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/feed.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/newTweet.html" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/newTweet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/taggedTweets.html" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/taggedTweets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/users.html" beforeDir="false" afterPath="$PROJECT_DIR$/TechTalentTwitterApplication/src/main/resources/templates/users.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +71,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
